@@ -1,4 +1,4 @@
-**Zombie Shooter**
+![image alt](https://github.com/sladkiyKeks/ZombieShooter/blob/main/Screenshot/Zombie%20Horde%20at%20Sunset%20Gas%20Station.png?raw=true)
 
 ---
 
@@ -7,6 +7,10 @@
 **ZombieShooter** is a short wave-based survival FPS made in Unreal Engine 5. You're stationed at a desert checkpoint, under attack by endless waves of zombies. Your goal: survive for 3 minutes and make it out alive.
 
 This prototype was created to showcase gameplay scripting, UI design, wave spawning, and basic shooter mechanics as part of my personal learning and portfolio.
+
+---
+
+![image alt](https://github.com/sladkiyKeks/ZombieShooter/blob/main/Screenshot/Screenshot%202025-05-22%20220659.png?raw=true)
 
 ---
 
@@ -24,6 +28,10 @@ This prototype was created to showcase gameplay scripting, UI design, wave spawn
 
 ---
 
+![image alt](https://github.com/sladkiyKeks/ZombieShooter/blob/main/Screenshot/Screenshot%202025-05-22%20220753.png?raw=true)
+
+---
+
 **Controls**
 
 - W A S D — Move
@@ -37,3 +45,5 @@ This prototype was created to showcase gameplay scripting, UI design, wave spawn
 ---
 
 **Note:** This is a portfolio prototype — not a full game. Feedback and support are appreciated!
+
+![image alt](https://github.com/sladkiyKeks/ZombieShooter/blob/main/Screenshot/Screenshot%202025-05-22%20220839.png?raw=true)
